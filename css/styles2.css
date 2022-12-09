@@ -1,0 +1,36 @@
+body{
+    margin:0px;
+}
+
+
+.top-container{
+background-color: red;
+height: 100px;
+width:100px;
+position: absolute;
+left:200px;
+
+
+
+}
+
+.middle-container{
+background-color: blue;
+height: 100px;
+width:100px;
+position: absolute;
+left:100px;
+
+
+}
+
+
+
+.bottom-container{
+background-color: yellow;
+height: 100px;
+width:100px;
+position: absolute;
+
+
+}
